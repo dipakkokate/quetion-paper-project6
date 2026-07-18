@@ -94,7 +94,7 @@ The system follows a **layered architecture**:
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/NotHarshhaa/ai-question-paper-generator.git
+git clone https://github.com/dipakkokate/quetion-paper-project6.git
 cd ai-question-paper-generator
 pip install -r requirements.txt
 ```
